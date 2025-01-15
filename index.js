@@ -1,4 +1,4 @@
-(async () => {
+y(async () => {
   const {
     default: makeWASocket,
     useMultiFileAuthState,
